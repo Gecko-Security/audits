@@ -10,7 +10,6 @@
 | [Gilf](https://www.glif.io/en)      | Liquidity Mining         | Soon       | June 2024 |
 | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | [Report]() | June 2024 |
 
-    </td>
   </tr>
 </table>
 
