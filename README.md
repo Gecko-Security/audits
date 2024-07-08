@@ -3,10 +3,9 @@
 # Methodology
 Two teams of elite Gecko Security Researchers test your Smart Contracts, performing independent reviews.
 
-<div style="text-align: center;">
-  <img src="https://github.com/Gecko-Security/audits/assets/22000925/aab80640-a28a-4ee3-9735-190fa4121efc" alt="Gecko_Methodology" style="width: 50%;" />
-</div>
-
+<p align="center">
+        <img src="https://github.com/Gecko-Security/audits/assets/22000925/aab80640-a28a-4ee3-9735-190fa4121efc" alt="Gecko_Methodology" style="width: 50%;" />
+</p>
 
 
 # Pay-Per-Vulnerability
