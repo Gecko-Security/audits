@@ -1,9 +1,19 @@
+<table style="border-collapse: collapse; width: 100%; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; padding: 0 10px; background: transparent;">
+      <img src="https://github.com/Gecko-Security/.github/assets/22000925/8317ffe7-58cf-4f8b-ab58-b083578f44dc" width="400">
+    </td>
+    <td style="border: none; padding: 0 10px; background: transparent;">
+
 | Client                              | Type                     | Link       | Date      |
 | ----------------------------------- | ------------------------ | ---------- | --------- |
 | [STX CITY](https://stx.city/)                            | Bonding Curve DEX        | Soon       | July 2025 |
 | [Bastion Wallet](https://bastionwallet.io/)                      | Wallet                   | Soon       | July 2025 |
 | [Gilf](https://www.glif.io/en)      | Liquidity Mining         | Soon       | June 2024 |
 | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | [Report]() | June 2024 |
+
+  </tr>
+</table>
 
 # Pay-Per-Vulnerability
 Gecko offers two engagement pricing options: Flat-cost and Pay-per-vulnerability
