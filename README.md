@@ -7,8 +7,8 @@
 
 | Client                              | Type                     | Link       | Date      |
 | ----------------------------------- | ------------------------ | ---------- | --------- |
-| [STX CITY](https://stx.city/)                            | Bonding Curve DEX        | Soon       | July 2025 |
-| [Bastion Wallet](https://bastionwallet.io/)                      | Wallet                   | Soon       | July 2025 |
+| [STX CITY](https://stx.city/)                            | Bonding Curve DEX        | Soon       | July 2024 |
+| [Bastion Wallet](https://bastionwallet.io/)                      | Wallet                   | Soon       | July 2024 |
 | [Gilf](https://www.glif.io/en)      | Liquidity Mining         | Private      | June 2024 |
 | [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | [Report](https://github.com/Gecko-Security/audits/blob/main/Reports/Wedefin%20Smart%20Contract%20Audit%20(June%202024).pdf) | June 2024 |
 
