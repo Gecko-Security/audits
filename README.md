@@ -5,13 +5,13 @@
     </td>
     <td style="border: none; padding: 0 10px; background: transparent;">
 
-| Client                              | Type                     | Link       | Date      |
-| ----------------------------------- | ------------------------ | ---------- | --------- |
-| [STX CITY](https://stx.city/)                            | Bonding Curve DEX        | Soon       | July 2024 |
-| [Bastion Wallet](https://bastionwallet.io/)                      | Wallet                   | Soon       | July 2024 |
-| [Gilf](https://www.glif.io/en)      | Liquidity Mining         | Private      | June 2024 |
-| [Wedefin](https://www.wedefin.com/) | Decentralized Index Fund | [Report](https://github.com/Gecko-Security/audits/blob/main/Reports/Wedefin%20Smart%20Contract%20Audit%20(June%202024).pdf) | June 2024 |
-
+| Client                                             | Type                     | Technology | Link                                                                                                                    | Date      |
+| -------------------------------------------------- | ------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Ribbon Protocol](https://www.ribbonprotocol.org/) | Web3 HealthFi            | EVM        | [📝]()                                                                                                                  | July 2024 |
+| [STX CITY](https://stx.city/)                      | Bonding Curve DEX        | STX        | Soon                                                                                                                    | July 2024 |
+| [Bastion Wallet](https://bastionwallet.io/)        | Wallet                   | EVM        | Private                                                                                                                 | July 2024 |
+| [Gilf](https://www.glif.io/en)                     | Liquidity Mining         | EVM        | Private                                                                                                                 | June 2024 |
+| [Wedefin](https://www.wedefin.com/)                | Decentralized Index Fund | EVM        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/Wedefin%20Smart%20Contract%20Audit%20(June%202024).pdf) | June 2024 |
   </tr>
 </table>
 
