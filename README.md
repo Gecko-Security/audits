@@ -22,13 +22,6 @@ Gecko offers two engagement pricing options:
 1. **Flat-cost**
 2. **Pay-per-vulnerability**
 
-## Choose Your Option
-
-- **Think your code is unbreakable?**  
-  Go with the Pay-per-vulnerability option
-
-- **Just want to fit us into your budget?**  
-  Take the Flat-cost
 
 ## Methodology
 
