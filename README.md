@@ -7,7 +7,7 @@
 
 | Client                                             | Type                     | Technology | Link                                                                                                                    | Date      |
 | -------------------------------------------------- | ------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Ribbon Protocol](https://www.ribbonprotocol.org/) | Web3 HealthFi            | EVM        | [📝]()                                                                                                                  | July 2024 |
+| [Ribbon Protocol](https://www.ribbonprotocol.org/) | Web3 HealthFi            | EVM        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/Ribbon%20Protocol%20Smart%20Contract%20Audit%20(July%202024).pdf)                                                                                                                  | July 2024 |
 | [STX CITY](https://stx.city/)                      | Bonding Curve DEX        | STX        | Soon                                                                                                                    | July 2024 |
 | [Bastion Wallet](https://bastionwallet.io/)        | Wallet                   | EVM        | Private                                                                                                                 | July 2024 |
 | [Gilf](https://www.glif.io/en)                     | Liquidity Mining         | EVM        | Private                                                                                                                 | June 2024 |
