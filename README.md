@@ -7,7 +7,7 @@
 
 | Client                                             | Type                     | Technology | Link                                                                                                                                | Date        |
 | -------------------------------------------------- | ------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Gamma](https://www.jing.cash/)                    | Swap                     | STX        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/Gamma%20Smart%20Contract%20Light%20Audit%20(August%202024).pdf)     | August 2024 |
+| [Gamma](https://www.jing.cash/)                    | BTC Swap                 | STX        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/Gamma%20Smart%20Contract%20Light%20Audit%20(August%202024).pdf)     | August 2024 |
 | [Ribbon Protocol](https://www.ribbonprotocol.org/) | Web3 HealthFi            | EVM        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/Ribbon%20Protocol%20Smart%20Contract%20Audit%20(July%202024).pdf)   | July 2024   |
 | [STX CITY](https://stx.city/)                      | Bonding Curve DEX        | STX        | [📝](https://github.com/Gecko-Security/audits/blob/main/Reports/STXCITY%20Smart%20Contract%20Audit%20(July%202024).pdf)             | July 2024   |
 | [Bastion Wallet](https://bastionwallet.io/)        | Wallet                   | EVM        | Private                                                                                                                             | July 2024   |
